@@ -223,6 +223,10 @@
   height: 17px;
 }
 
+.temporary-class-unused {
+  width: 999px;
+}
+
 .explore-button {
   display: flex;
   justify-content: center;
